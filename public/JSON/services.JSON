@@ -1,0 +1,82 @@
+[
+    {   "id":"recent_1",
+        "title":"Room Wallpapers",
+        "img":"https://smartdemowp.com/wazors/wp-content/uploads/service-v1-1.jpg",
+        "description":"When a leaf fall from the tree what exist between the ground and the fall is time.and time never shows any mercy,This is the way we fall. First we lose our balance, teetering precariously on the edge of uncertainty, until, mercilessly, gravity takes over.",
+        "Medium":"acrylic on canvas",
+        "Dimension":"30/30 inch",
+        "fee":"$280"
+    },
+    {
+        "id":"recent_2",
+        "title":"Wall Painting",
+        "img":"https://smartdemowp.com/wazors/wp-content/uploads/service-v1-2.jpg",
+        "description":"When a leaf fall from the tree what exist between the ground and the fall is time.and time never shows any mercy,This is the way we fall. First we lose our balance, teetering precariously on the edge of uncertainty, until, mercilessly, gravity takes over.",
+        "Medium":"acrylic on canvas",
+        "Dimension":"3feet/3feet",
+        "fee":"$210"
+    },
+    {
+        "id":"recent_3",
+        "title":"Wall Sheets",
+        "img":"https://smartdemowp.com/wazors/wp-content/uploads/service-v1-3.jpg",
+        "description":"When a leaf fall from the tree what exist between the ground and the fall is time.and time never shows any mercy,This is the way we fall. First we lose our balance, teetering precariously on the edge of uncertainty, until, mercilessly, gravity takes over.",
+        "Medium":"acrylic on canvas",
+        "Dimension":"30/36 inch",
+        "fee":"$250"
+    },
+    {
+        "id":"recent_4",
+        "title":"Interior Design",
+        "img":"https://smartdemowp.com/wazors/wp-content/uploads/service-v1-4.jpg",
+        "description":"This painting is inspired from one of the most famous impressionist - Claude Monet's painting Waterloo bridge.Waterloo Bridge is part of history also the name of this painting means promise and commitment.",
+        "Dimension":"18/24 inch",
+        "fee":"$230"
+    },
+    {
+        "id":"recent_5",
+        "title":"PVC Panels",
+        "img":"https://smartdemowp.com/wazors/wp-content/uploads/service-v1-5.jpg",
+        "description":"This painting is inspired from one of the most famous impressionist - Claude Monet's painting Waterloo bridge.Waterloo Bridge is part of history also the name of this painting means promise and commitment.",
+        "Medium":"acrylic on canvas",
+        "Dimension":"18/24 inch",
+        "fee":"$300"
+    },
+    {
+        "id":"recent_6",
+        "title":"Outdoor Designs",
+        "img":"https://smartdemowp.com/wazors/wp-content/uploads/service-v1-6.jpg",
+        "description":"This painting is inspired from one of the most famous impressionist - Claude Monet's painting Waterloo bridge.Waterloo Bridge is part of history also the name of this painting means promise and commitment.",
+        "Medium":"acrylic on canvas",
+        "Dimension":"20/24 inch",
+        "fee":"$270"
+    },
+    {
+        "id":"recent_7",
+        "title":"Wall Sheets",
+        "img":"https://smartdemowp.com/wazors/wp-content/uploads/project-v1-2.jpg",
+        "description":"When a leaf fall from the tree what exist between the ground and the fall is time.and time never shows any mercy,This is the way we fall. First we lose our balance, teetering precariously on the edge of uncertainty, until, mercilessly, gravity takes over.",
+        "Medium":"acrylic on canvas",
+        "Dimension":"20/24 inch",
+        "fee":"$260"
+    },
+    {
+        "id":"recent_8",
+        "title":"Wall Painting",
+        "img":"https://smartdemowp.com/wazors/wp-content/uploads/project-v1-1.jpg",
+        "description":"When a leaf fall from the tree what exist between the ground and the fall is time.and time never shows any mercy,This is the way we fall. First we lose our balance, teetering precariously on the edge of uncertainty, until, mercilessly, gravity takes over.",
+        "Medium":"acrylic on canvas",
+        "Dimension":"20/24 inch",
+        "fee":"$220"
+    },
+    {
+        "id":"recent_9",
+        "title":"Room Wallpapers",
+        "img":"https://smartdemowp.com/wazors/wp-content/uploads/project-v1-4.jpg",
+        "description":"When a leaf fall from the tree what exist between the ground and the fall is time.and time never shows any mercy,This is the way we fall. First we lose our balance, teetering precariously on the edge of uncertainty, until, mercilessly, gravity takes over.",
+        "Medium":"acrylic on canvas",
+        "Dimension":"20/25 inch",
+        "fee":"$200"
+    }
+]
+
